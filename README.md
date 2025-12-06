@@ -1,6 +1,6 @@
 # Hi, I'm Abhijeet 👋
 
-🎓 Currently pursuing my **Master's in Computer Science**  
+🎓 Currently pursuing my **Masters** 
 💻 Practicing **C, C++, and Java**  
 🚀 Interested in problem-solving, clean code, and building efficient software  
 
