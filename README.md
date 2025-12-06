@@ -31,7 +31,7 @@
 
 ## 📬 Connect With Me
  <p>
-   Email: <a>wargadabhi@gmail.com</a>
+   Email:wargadabhi@gmail.com
 </p>
 
 ---
