@@ -30,10 +30,8 @@
 ---
 
 ## 📬 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+ <p>
+   Email: wargadabhi@gmail.com
 </p>
 
 ---
