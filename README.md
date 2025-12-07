@@ -18,7 +18,7 @@
 ## 📈 Current Focus
 - Strengthening core programming concepts  
 - Writing clean and efficient code  
-- Preparing for advanced computing & software engineering  
+- Preparing for advanced computing & software engineering 
 
 ---
 
