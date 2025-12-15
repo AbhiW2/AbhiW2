@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Languages I'm Practicing
+## 🛠 Languages I'm Practicing 
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" />
