@@ -23,7 +23,7 @@
 ---
 
 ## 🌱 What I'm Learning
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
 - Object-Oriented Programming  
 - Software Engineering fundamentals  
 
