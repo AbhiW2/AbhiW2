@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me 
 
 I am a postgraduate student with a strong focus on **Computer Science fundamentals and Software Engineering principles**. I enjoy solving complex problems, writing clean and optimized code, and understanding how real-world systems are designed and built.
 
