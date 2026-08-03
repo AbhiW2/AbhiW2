@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Abhijeet Wargad</h1>
 
 <h3 align="center">
@@ -148,4 +148,3 @@ First, solve the problem. Then, write the code.
 <p align="center">
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
-```
