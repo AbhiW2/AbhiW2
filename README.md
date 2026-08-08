@@ -118,6 +118,7 @@ solutions, and continuously improving my technical skills through hands-on proje
 <li>System Design</li>
 <li>Python Development</li>
 <li>Software Architecture</li>
+<li>AI/ML Concepts</li>
 </ul>
 
 <hr>
